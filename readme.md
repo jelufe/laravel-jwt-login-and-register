@@ -1,6 +1,6 @@
 # Login and Register with Laravel 5.8 using JWTAuth
 
-This project was developed with Laravel 5.8.
+This project was developed with Laravel 5.8
 
 ## How install
 
